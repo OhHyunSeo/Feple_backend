@@ -1,0 +1,6 @@
+[submodule "Feple"]
+	path = Feple
+	url = https://github.com/RJ-Stony/Feple.git
+[submodule "callanalysis"]
+	path = callanalysis
+	url = https://github.com/jungwoo898/callanalysis.git
