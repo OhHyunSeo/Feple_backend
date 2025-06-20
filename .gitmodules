@@ -1,3 +1,6 @@
 [submodule "Feple"]
 	path = Feple
 	url = https://github.com/OhHyunSeo/Feple.git
+[submodule "callanalysis"]
+	path = callanalysis
+	url = https://github.com/OhHyunSeo/call.git
