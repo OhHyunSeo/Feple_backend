@@ -1,0 +1,32 @@
+# Django Framework
+Django==5.2.1
+djangorestframework==3.16.0
+django-cors-headers==4.5.0
+
+# Database
+psycopg2-binary==2.9.9
+
+# Environment & Configuration
+python-dotenv==1.1.0
+
+# Async Processing
+celery==5.5.2
+django-celery-results==2.6.0
+redis==6.1.0
+
+# Health Check
+django-health-check==3.18.1
+
+# HTTP Requests
+requests==2.32.3
+
+# File Handling
+Pillow==10.3.0
+
+# Production Server
+gunicorn==21.2.0
+
+# Core Dependencies
+asgiref==3.8.1
+sqlparse==0.5.3
+tzdata==2025.2 
